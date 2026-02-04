@@ -1,1 +1,1 @@
-export const settings = { host: 'https://library2026-be.onrender.com' };
+export const settings = { host: 'https://booksapp-server.onrender.com' };
