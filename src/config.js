@@ -1,0 +1,1 @@
+export const settings = { host: 'https://library2026-be.onrender.com' };
